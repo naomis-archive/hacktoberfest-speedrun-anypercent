@@ -1,35 +1,20 @@
-# Project Name
+# Hacktoberfest Speedrun
 
-Project Description
+Hi there! Welcome to this repository which explains how to speedrun Hacktoberfest!
 
-## Live Version
+## Step 1
 
-This page is not yet deployed.
+> **Warning**
+> **YOU DON'T**. 
+>
+> Hacktoberfest isn't about racing to win a shirt (planting trees is the better option btw) - it's about making valuable contributions to the open source community. Spamming PRs, or looking for cheaty repos like this one, is incredibly against what we are trying to do. Please take the time to find legitimate projects, and make meaningful contributions.
 
-<!--This page is currently deployed. [View the live website.]()-->
+## PR This Repo Anyway??
 
-## Feedback and Bugs
+> **Note**
+> 
+> I have explicitly requested this repo be excluded from Hacktoberfest as it's CLEARLY not in line with the core values.
 
-If you have feedback or a bug report, please feel free to open a GitHub issue!
-
-## Contributing
-
-If you would like to contribute to the project, you may create a Pull Request containing your proposed changes and we will review it as soon as we are able! Please review our [contributing guidelines](CONTRIBUTING.md) first.
-
-## Code of Conduct
-
-Before interacting with our community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
-
-## Licensing
-
-Copyright (C) 2022 Naomi Carrigan
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
-
-The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
-
-## Contact
-
-We may be contacted through our [Chat Server](http://chat.nhcarrigan.com) or via email at `contact@nhcarrigan.com`.
+> **Warning**
+> 
+> If you choose to PR this repo anyway, your PR will auto-close **and be labelled spam**. Get 2 PRs labelled `spam` and you win an **indefinite ban** from participating in Hacktoberfest.
