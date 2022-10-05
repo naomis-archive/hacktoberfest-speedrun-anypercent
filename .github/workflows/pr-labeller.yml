@@ -36,4 +36,4 @@ jobs:
               repo: context.payload.repository.name,
               pull_number: context.payload.pull_request.number,
               state: "closed"
-              });
+            });
